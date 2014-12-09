@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+  <administrator id="25.214.999">
+    <product productName="Nintendo Wii U Smash Bros. Bundle Pack" category="Videogames, Consoles" price="17000.0" quantity="3" />
+  </administrator>
+  <administrator id="25.214.999">
+    <product productName="Hola" category="Arts" price="123.0" quantity="2" />
+  </administrator>
+</root>

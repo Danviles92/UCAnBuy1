@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+  <user name="Jesús" lastName="Di Bari" id="25.214.999" username="Damon Baird" email="iijbari@aol.com" password="PapasFritas" />
+  <user name="Rafael" lastName="Di Bari" id="16.815.271" username="Rafiki" email="rafael.dibari@gmail.com" password="Superman" />
+  <user name="Elvis" lastName="Noguera" id="1234567" username="Puchi" email="elvis@puchi.com" password="123456" />
+</root>
